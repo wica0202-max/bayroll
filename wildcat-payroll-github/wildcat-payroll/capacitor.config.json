@@ -1,0 +1,7 @@
+{
+  "appId": "com.wildcat.payroll",
+  "appName": "Wild Cat",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": false }
+}
